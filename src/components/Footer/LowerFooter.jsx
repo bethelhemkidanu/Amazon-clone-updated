@@ -3,7 +3,7 @@ import React from 'react'
 function LowerFooter() {
   return (
     <div>
-
+{/* 
 lowerfooter <br />
 lowerfooter<br />
 lowerfooter<br />
@@ -11,8 +11,8 @@ lowerfooter<br />
 lowerfooter<br />
 lowerfooter<br />
 lowerfooter<br />
-lowerfooter
-lowerfooter
+lowerfooter */}
+{/* lowerfooter */}
 
     </div>
   )
